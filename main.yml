@@ -1,4 +1,4 @@
-name: amazonRDP
+name: AnhThongVPS
 
 on: workflow_dispatch
 
